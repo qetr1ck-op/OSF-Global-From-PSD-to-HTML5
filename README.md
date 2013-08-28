@@ -17,5 +17,6 @@ What I done at all:
 - debugging into all modern browsers including ie8;
 
 
-    You may contact with me - orest@prustayko.com
+    You may contact with me - orestprustayko@gmail.com
+
     Also my linkedIn page - http://www.linkedin.com/pub/orest-prustayko/54/394/313
